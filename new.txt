@@ -17,3 +17,12 @@ Your project becomes clean (like last commit)
 git stash apply
 git stash apply
 git stash apply
+git stash show stash@{1}
+git stash show stash@{1}
+🔹 What it Does
+
+👉 Displays a summary of changes stored in a specific stash.
+
+stash@{1} → Refers to the second stash (older one)
+Shows which files were changed
+Does not show full code changes by default
