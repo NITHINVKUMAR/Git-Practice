@@ -1,0 +1,15 @@
+Hi hello
+Git Stash Commands – Notes
+🔹 1. git stash
+git stash
+
+👉 Temporarily saves your uncommitted changes and cleans your working directory.
+
+✅ Why use it?
+When you are working on something but need to:
+Switch branches
+Pull latest code
+Fix something urgent
+💡 What happens?
+Your changes are saved in a stash stack
+Your project becomes clean (like last commit)
