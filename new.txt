@@ -13,3 +13,7 @@ Fix something urgent
 💡 What happens?
 Your changes are saved in a stash stack
 Your project becomes clean (like last commit)
+
+git stash apply
+git stash apply
+git stash apply
