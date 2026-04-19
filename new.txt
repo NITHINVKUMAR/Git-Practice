@@ -26,4 +26,5 @@ git stash show stash@{1}
 stash@{1} → Refers to the second stash (older one)
 Shows which files were changed
 Does not show full code changes by default.
-this is for merge conflict
+this is for merge conflict.
+Locations
